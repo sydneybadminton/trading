@@ -20,10 +20,13 @@ print "BTC bought = " + repr(btcm_btc)
 print "CS Rate = $"  + repr(cs_rate)
 print "Profit = $" + profit
 
-if float(profit) > 20.0:
+if float(profit) > 200.0:
     body = 'BTCM Last Price for 1 BTC = $' + format((btcm_lastprice * 1.008), '0.2f') + '\r\n' + \
            'BTC bought = ' + str(btcm_btc) + '\r\n' + \
            'CS Rate for 1 BTC = $' + str(cs_rate) + '\r\n' + \
            'Profit = $' + str(profit)
-    SendGrid.send_email("malli.arjun@gmail.com", "no-reply@sendgrid.me",
+    email_ids = []
+    email_ids.append("malli.arjun@gmail.com")
+    email_ids.append("michaelwookey@gmail.com")
+    SendGrid.send_email(email_ids, "no-reply@sendgrid.me",
                             "Profit for $10K trade is $" + repr(profit), body)
