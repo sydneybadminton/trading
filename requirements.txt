@@ -1,0 +1,2 @@
+requests
+sendgrid==1.6.22
