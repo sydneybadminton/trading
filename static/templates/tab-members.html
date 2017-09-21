@@ -1,0 +1,13 @@
+<ion-view hide-nav-bar="true" class="background">
+    <ion-header-bar align-title="centre" class="bar-assertive">
+        <h1 class="title">Members</h1>
+    </ion-header-bar>
+
+    <ion-content class="has-header">
+        <ion-list>
+            <ion-item ng-repeat="member in members" type="item-text-wrap" href="#/tab/member/{{$index}}">
+            {{member.firstname}} {{member.lastname}}
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

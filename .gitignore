@@ -1,2 +1,14 @@
+# Apple files
 .DS_Store
+
+# No idea IDE files
 .idea/
+
+# Virtual environment directory
+venv/
+virtenv/
+vertenv/
+
+# .pyc files
+*.pyc
+*.pyo

@@ -1,0 +1,23 @@
+<ion-view hide-nav-bar="true" class="background">
+
+	<ion-header-bar align-title="centre" class="bar-assertive">
+		<h1 class="title">Super User</h1>
+	</ion-header-bar>
+	<ion-content class="has-header" ng-controller = "SuperUser">
+		<ion-list>
+			<ion-item>
+				<button class="button button-block button-dark" ng-click="groupOwners()">Top up</button>
+				<button class="button button-block button-dark" ng-click="runSundayExpense()">Run Sunday Expense</button>
+				<button class="button button-block button-dark" ng-click="enterShuttlesExpense()">Shuttle Expense</button>
+				<button class="button button-block button-dark" ng-click="makeSomeoneSundayAbsent()">Make Someone Sunday Absent</button>
+				<button class="button button-block button-dark" ng-click="createANewUser()">Create A New User</button>
+				<button class="button button-block button-dark" ng-click="deleteAUser()">Delete A User</button>
+				<button class="button button-block button-dark" ng-click="changeSuperUser()">Change Super User</button>
+				<button class="button button-block button-dark" ng-click="enterSaturdayCourtCost()">Saturday's Court Cost</button>
+				<button class="button button-block button-dark" ng-click="enterSundayCourtCost()">Sunday's Court Cost</button>
+				<button class="button button-block button-dark" ng-click="sendAnEmail()">Send An Email</button>
+				<button class="button button-block button-dark" ng-click="adhocCharge()">AdHoc Charge</button>
+			</ion-item>
+		</ion-list>
+	</ion-content>
+</ion-view>

@@ -1,0 +1,15 @@
+<ion-view hide-nav-bar="true" class="background">
+    <ion-header-bar align-title="centre" class="bar-assertive">
+        <div class="buttons">
+            <button class="button icon-left ion-chevron-left button-clear" ng-click="goBack()"> Back </button>
+        </div>
+    <h1 class="title">Make Someone Sunday Absent</h1>
+    </ion-header-bar>
+    <ion-content has-header="true" padding="true">
+        <ion-list can-tap="true">
+			<ion-item ng-repeat = "item in items" ng-model="data.absentWeeks" ng-click="makeAbsent(item)">
+				{{item.firstname}} {{item.lastname}}
+	   	</ion-item>
+		</ion-list>
+    </ion-content>
+</ion-view>

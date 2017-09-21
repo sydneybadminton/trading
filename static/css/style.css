@@ -1,0 +1,87 @@
+.background {
+    background: url("../img/background.jpg") no-repeat center center fixed;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.menu, .view, .list, .item       {
+    background: transparent;
+}
+
+.item-login {
+    background-color: white;
+    padding:5px;
+}
+
+.loginlist{
+  width: 170px auto;
+  margin: 120px auto;
+}
+
+.resetlist{
+  width: 170px auto;
+  margin: 120px auto;
+}
+
+.createNewUser{
+  width: 170px auto;
+  margin: 20px auto;
+}
+
+.adhocCharge{
+  width: 170px auto;
+  margin: auto;
+}
+
+.sendAnEmail{
+  width: 170px auto;
+  margin: auto;
+}
+
+textarea {
+    background:transparent;
+    outline:none;
+    border:none;
+    width:100%;
+}
+
+.padding{
+	padding:5px
+}
+
+#mydiv {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+}
+
+body {
+  cursor: url('http://ionicframework.com/img/finger.png'), auto;
+}
+
+map {
+  width: 100%;
+  height: 100% !important;
+}
+
+.scroll, .mapWrap {
+  height: 100%;
+}
+
+#mainContainer {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}

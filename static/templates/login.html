@@ -1,0 +1,23 @@
+ <ion-view title = "Login" hide-nav-bar="true" hide-back-button="true">
+	<ion-content class="padding background">
+		<form ng-controller= "LoginCtrl">
+			<div class="loginlist" >
+				<h3 style="text-align: center;">Welcome To Badminton</h3>
+				<br>
+				<label class="item item-input item-login">
+					<input type="email" placeholder="Username" ng-model="username">
+				</label>
+				<label class="item item-input  item-login">
+					<input type="password" placeholder="Password" ng-model="password">
+				</label>
+				<button class="button button-block button-dark" ng-click="doLogin(username, password)">Login</button>
+
+				<div class="calm" style="text-align: center;" >
+					<button class="button button-clear button-dark" ng-click="resetPasword()">Forgot/Reset Password?</button>
+				</div>
+			</div>
+
+		</form>
+	</ion-content>
+</ion-view>
+

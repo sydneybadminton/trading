@@ -1,0 +1,19 @@
+<ion-header-bar align-title="center" class="bar-assertive">
+<div class="buttons">
+	<button class="button icon-left ion-chevron-left button-clear"
+		ng-click="goBack()">Back</button>
+</div>
+<h1 class="title">Location</h1>
+</ion-header-bar>
+<ion-content scroll="false">
+<div>
+	<h4>172 Silverwater Rd, SILVERWATER, NSW 2128</h4>
+</div>
+<div class="mapWrap" data-tap-disabled="true">
+	<map center="-33.829882,151.048898" zoom="15">
+		<!-- ngRepeat: pos in positions -->
+		<marker ng-repeat=" pos in positions"
+			position="{{pos.lat}},{{pos.lng}}"></marker>
+	</map>
+</div>
+</ion-content>

@@ -1,0 +1,28 @@
+<!-- 
+  Create tabs with an icon and label, using the tabs-positive style. 
+  Each tab's child <ion-nav-view> directive will have its own 
+  navigation history that also transitions its views in and out.
+-->
+<ion-tabs class="tabs-icon-top">
+
+  <!-- Dashboard tab -->
+  <ion-tab title="Dashboard" icon="icon ion-home" href="#/tab/dash">
+    <ion-nav-view name="tab-dash"></ion-nav-view>
+  </ion-tab>
+
+  <!-- Other members tab -->
+  <ion-tab title="Members" icon="icon ion-ios7-people" ng-if="showMembers" href="#/tab/members">
+    <ion-nav-view name="tab-members"></ion-nav-view>
+  </ion-tab>
+
+  <!-- Absents tab -->
+  <ion-tab title="Absents" icon="icon ion-ios7-people" href="#/tab/absents">
+    <ion-nav-view name="tab-absents"></ion-nav-view>
+  </ion-tab>
+  
+    <!-- SuperUser tab -->
+  <ion-tab title="SuperUser" icon="icon ion-key" ng-if="superUser" href="#/tab/SuperUser">
+    <ion-nav-view name="tab-SuperUser"></ion-nav-view>
+  </ion-tab>
+  
+</ion-tabs>

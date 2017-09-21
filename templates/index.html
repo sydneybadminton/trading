@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <!-- CSS files -->
+    <link href="../static/lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="../static/css/style.css" rel="stylesheet">
+  </head>
+  <body style="background-color: lightgrey;" ng-app="communityApp" animation="slide-left-right-ios7">
+    <div id="mainContainer">
+        <!--
+          The nav bar that will be updated as we navigate between views.
+        -->
+        <ion-nav-bar class="bar-stable nav-title-slide-ios7">
+          <ion-nav-back-button class="button-icon icon  ion-ios7-arrow-back">
+            Back
+          </ion-nav-back-button>
+        </ion-nav-bar>
+        <!--
+          The views will be rendered in the <ion-nav-view> directive below
+          Templates are in the /templates folder (but you could also
+          have templates inline in this html file if you'd like).
+        -->
+        <ion-nav-view></ion-nav-view>
+    </div>
+
+    <!-- ionic/angularjs js -->
+    <script src="../static/lib/ionic/js/ionic.bundle.js"></script>
+
+    <!--&lt;!&ndash; cordova script (this will be a 404 during development) &ndash;&gt;-->
+    <!--<script src="cordova.js"></script>-->
+
+   <!-- Maps   -->
+   <script src="http://maps.google.com/maps/api/js"></script>
+   <script src="../static/lib/ng/ng-map.min.js"></script>
+
+    <!-- your app's js -->
+    <script src="../static/js/app.js"></script>
+    <script src="../static/js/controllers.js"></script>
+    <script src="../static/js/services.js"></script>
+  </body>
+</html>

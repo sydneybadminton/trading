@@ -1,0 +1,16 @@
+{ "results": [
+	{
+        "cost": 40,
+        "createdAt": "2014-11-16T09:10:55.140Z",
+        "day": "Saturday",
+        "objectId": "4rCUuIq7dN",
+        "updatedAt": "2015-12-05T00:03:25.481Z"
+    },
+	{
+        "cost": 200,
+        "createdAt": "2014-11-16T09:11:09.651Z",
+        "day": "Sunday",
+        "objectId": "o8SIqxDx5A",
+        "updatedAt": "2016-05-07T13:43:48.029Z"
+    }
+] }

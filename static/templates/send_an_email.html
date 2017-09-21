@@ -1,0 +1,24 @@
+<ion-view hide-nav-bar="true" class="background">
+    <ion-header-bar align-title="centre" class="bar-assertive">
+        <div class="buttons">
+            <button class="button icon-left ion-chevron-left button-clear" ng-click="goBack()"> Back </button>
+        </div>
+    <h1 class="title">Send An Email</h1>
+    </ion-header-bar>
+    <ion-content has-header="true" padding="true">
+        <form ng-controller= "SendAnEmailCtrl">
+			<div class="sendAnEmail" >
+				<br>
+                <label class="item item-input  item-login">
+					<input type="text" placeholder="Subject" ng-model="subject">
+				</label>
+                <br>
+                <label id="contentid" class="item item-input  item-login">
+					<textarea name="textarea" style="height:150px;" placeholder="Email body" ng-model="body"></textarea>
+				</label>
+
+				<button class="button button-block button-dark" ng-click="send()">Send</button>
+			</div>
+		</form>
+    </ion-content>
+</ion-view>

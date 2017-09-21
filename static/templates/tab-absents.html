@@ -1,0 +1,24 @@
+<ion-view hide-nav-bar="true" class="background">
+
+<ion-header-bar align-title="centre" class="bar-assertive">
+ <h1 class="title">Absents</h1>
+</ion-header-bar>
+
+ <ion-content class="has-header padding" type="item-text-wrap" ng-controller="AbsentList">
+ <button class="button button-block button-dark" ng-click="satAbsentList()">Saturday's Absentees</button>
+ <button class="button button-block button-dark" ng-click="sunAbsentList()">Sunday's Absentees</button>
+
+ <br>
+ <h4>{{whichAbsents}}</h4>
+<ion-list ng-controller = "AbsentList as al" ng-hide = "noAbsentees" can-swipe="admin">
+    <ion-item ng-repeat = "item in items" ng-model = "al.items">
+    {{item.firstname}} {{item.lastname}}
+	<ion-option-button class="button button-assertive"
+                       ng-click="onItemDelete(item, item.email)">
+      Delete
+    </ion-option-button>
+    </ion-item>
+</ion-list>
+<ion-list ng-controller = "AbsentList as al" ng-show = "noAbsentees"> <h5>There are no absentees</h5></ion-list>
+</ion-content>
+</ion-view>

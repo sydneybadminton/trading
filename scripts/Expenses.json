@@ -1,0 +1,2000 @@
+{ "results": [
+	{
+        "cost": 72,
+        "costPerPerson": 3.13,
+        "createdAt": "2015-10-17T02:51:38.908Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 23,
+        "objectId": "018LJL9796",
+        "updatedAt": "2015-10-17T02:51:38.908Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 2.86,
+        "createdAt": "2016-04-22T22:30:09.106Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "0cf1ECy8Ne",
+        "updatedAt": "2016-04-22T22:30:09.106Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5,
+        "createdAt": "2015-01-02T20:30:04.437Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "0mmNDxNze7",
+        "updatedAt": "2015-01-02T20:30:04.437Z"
+    },
+	{
+        "cost": 27,
+        "costPerPerson": 1.29,
+        "createdAt": "2015-12-05T23:13:19.544Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 21,
+        "objectId": "0p7MpBR4JQ",
+        "updatedAt": "2015-12-05T23:13:19.544Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 8.89,
+        "createdAt": "2016-01-09T22:30:07.161Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 18,
+        "objectId": "1237CQPnhn",
+        "updatedAt": "2016-01-09T22:30:07.161Z"
+    },
+	{
+        "cost": 45,
+        "costPerPerson": 1.45,
+        "createdAt": "2015-08-01T23:18:17.902Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 31,
+        "objectId": "1DUwK5upTd",
+        "updatedAt": "2015-08-01T23:18:17.902Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 1.04,
+        "createdAt": "2015-11-06T21:12:34.782Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 23,
+        "objectId": "1WpN9MavJI",
+        "updatedAt": "2015-11-06T21:12:34.782Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 7.27,
+        "createdAt": "2016-04-02T22:30:12.911Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 22,
+        "objectId": "2bNqJYMin8",
+        "updatedAt": "2016-04-02T22:30:12.911Z"
+    },
+	{
+        "cost": 28,
+        "costPerPerson": 1.33,
+        "createdAt": "2015-12-19T22:43:07.856Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 21,
+        "objectId": "2c6HzQrmYP",
+        "updatedAt": "2015-12-19T22:43:07.856Z"
+    },
+	{
+        "cost": 80,
+        "costPerPerson": 4.21,
+        "createdAt": "2015-12-12T22:30:07.138Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 19,
+        "objectId": "2jAsRBRlgx",
+        "updatedAt": "2015-12-12T22:30:07.138Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 8,
+        "createdAt": "2016-03-05T22:30:08.375Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 20,
+        "objectId": "30uDzRScSc",
+        "updatedAt": "2016-03-05T22:30:08.375Z"
+    },
+	{
+        "cost": 25,
+        "costPerPerson": 0.93,
+        "createdAt": "2015-07-11T23:03:28.013Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 27,
+        "objectId": "3KfUvfzeR7",
+        "updatedAt": "2015-07-11T23:03:28.013Z"
+    },
+	{
+        "cost": 75,
+        "costPerPerson": 2.42,
+        "createdAt": "2015-06-28T23:16:07.292Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 31,
+        "objectId": "3fx65vcCE1",
+        "updatedAt": "2015-06-28T23:16:07.292Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2016-02-12T22:30:08.768Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "3kqi5oCTip",
+        "updatedAt": "2016-02-12T22:30:08.768Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 3.53,
+        "createdAt": "2015-01-30T20:30:05.717Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 17,
+        "objectId": "4Jwz98HqFx",
+        "updatedAt": "2015-01-30T20:30:05.717Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 5,
+        "createdAt": "2015-12-25T22:30:04.096Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 8,
+        "objectId": "4RU3YAbJUf",
+        "updatedAt": "2015-12-25T22:30:04.096Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 11.43,
+        "createdAt": "2015-01-03T20:30:05.012Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 21,
+        "objectId": "4Zxih2PMpZ",
+        "updatedAt": "2015-01-03T20:30:05.012Z"
+    },
+	{
+        "cost": 46,
+        "costPerPerson": 2.56,
+        "createdAt": "2015-11-21T22:21:48.941Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 18,
+        "objectId": "4ijHMwFlbm",
+        "updatedAt": "2015-11-21T22:21:48.941Z"
+    },
+	{
+        "cost": 81,
+        "costPerPerson": 3.38,
+        "createdAt": "2016-04-03T03:35:53.214Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 24,
+        "objectId": "4qgDabgZr9",
+        "updatedAt": "2016-04-03T03:35:53.214Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-05-16T22:30:08.349Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "4qlECNUTKj",
+        "updatedAt": "2015-05-16T22:30:08.349Z"
+    },
+	{
+        "cost": 200,
+        "costPerPerson": 8.7,
+        "createdAt": "2016-05-21T22:30:09.184Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "4r6xG6OKBH",
+        "updatedAt": "2016-05-21T22:30:09.184Z"
+    },
+	{
+        "cost": 50,
+        "costPerPerson": 1.79,
+        "createdAt": "2015-08-22T21:37:36.664Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 28,
+        "objectId": "51OmimHCC2",
+        "updatedAt": "2015-08-22T21:37:36.664Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.08,
+        "createdAt": "2016-04-08T22:30:10.480Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 13,
+        "objectId": "51lx3Gfjzs",
+        "updatedAt": "2016-04-08T22:30:10.480Z"
+    },
+	{
+        "cost": 48,
+        "costPerPerson": 1.41,
+        "createdAt": "2015-03-08T20:23:11.567Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 34,
+        "objectId": "5CQDpOK1I1",
+        "updatedAt": "2015-03-08T20:23:11.567Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5,
+        "createdAt": "2014-12-19T20:30:04.896Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "5RdcF9OLDj",
+        "updatedAt": "2014-12-19T20:30:04.896Z"
+    },
+	{
+        "cost": 30,
+        "costPerPerson": 1.76,
+        "createdAt": "2016-03-25T22:57:30.971Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 17,
+        "objectId": "68sHsJFJCI",
+        "updatedAt": "2016-03-25T22:57:30.971Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 3,
+        "createdAt": "2015-04-17T20:30:03.667Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 20,
+        "objectId": "6sGEsBmzmw",
+        "updatedAt": "2015-04-17T20:30:03.667Z"
+    },
+	{
+        "cost": 48,
+        "costPerPerson": 2,
+        "createdAt": "2015-10-24T22:04:14.067Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 24,
+        "objectId": "71CG7OrXdO",
+        "updatedAt": "2015-10-24T22:04:14.067Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.62,
+        "createdAt": "2015-07-03T22:30:08.596Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 13,
+        "objectId": "7E7tCZOLRJ",
+        "updatedAt": "2015-07-03T22:30:08.596Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.89,
+        "createdAt": "2015-08-08T22:30:11.815Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 27,
+        "objectId": "7H9kMtEiJ2",
+        "updatedAt": "2015-08-08T22:30:11.815Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 0.8,
+        "createdAt": "2015-09-19T21:34:50.246Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 30,
+        "objectId": "7Hw9JHBcRi",
+        "updatedAt": "2015-09-19T21:34:50.246Z"
+    },
+	{
+        "cost": 25,
+        "costPerPerson": 1.25,
+        "createdAt": "2015-11-17T04:07:43.921Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 20,
+        "objectId": "7PjzeMrnY0",
+        "updatedAt": "2015-11-17T04:07:43.921Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.62,
+        "createdAt": "2015-06-12T22:30:08.264Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 13,
+        "objectId": "7uw0NUpWV3",
+        "updatedAt": "2015-06-12T22:30:08.264Z"
+    },
+	{
+        "cost": 79.5,
+        "costPerPerson": 3.46,
+        "createdAt": "2016-03-14T02:19:51.489Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 23,
+        "objectId": "8XoIZkEHYI",
+        "updatedAt": "2016-03-14T02:19:51.489Z"
+    },
+	{
+        "cost": 28,
+        "costPerPerson": 1.65,
+        "createdAt": "2015-12-22T06:02:37.169Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 17,
+        "objectId": "8dIW9GHeq3",
+        "updatedAt": "2015-12-22T06:02:37.169Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 11.43,
+        "createdAt": "2016-01-02T22:30:06.544Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 14,
+        "objectId": "8q3X0MAK9N",
+        "updatedAt": "2016-01-02T22:30:06.544Z"
+    },
+	{
+        "cost": 28,
+        "costPerPerson": 1.22,
+        "createdAt": "2016-01-30T22:15:06.715Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 23,
+        "objectId": "97eZPCDTgN",
+        "updatedAt": "2016-01-30T22:15:06.715Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2016-04-01T22:30:12.423Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "9FVQtyNGOM",
+        "updatedAt": "2016-04-01T22:30:12.423Z"
+    },
+	{
+        "cost": 54,
+        "costPerPerson": 2.57,
+        "createdAt": "2016-03-27T21:40:11.612Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 21,
+        "objectId": "9Ix6tQdAZ7",
+        "updatedAt": "2016-03-27T21:40:11.612Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8,
+        "createdAt": "2015-02-28T20:30:04.265Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 30,
+        "objectId": "9J1Y0NySkL",
+        "updatedAt": "2015-02-28T20:30:04.265Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.29,
+        "createdAt": "2015-08-14T22:30:08.086Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "9PqxFujiuO",
+        "updatedAt": "2015-08-14T22:30:08.086Z"
+    },
+	{
+        "cost": 30,
+        "costPerPerson": 1.3,
+        "createdAt": "2016-05-10T10:54:51.282Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 23,
+        "objectId": "9Sff1BjZQ3",
+        "updatedAt": "2016-05-10T10:54:51.282Z"
+    },
+	{
+        "cost": 75,
+        "costPerPerson": 3,
+        "createdAt": "2015-11-08T06:17:02.474Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 25,
+        "objectId": "9aUsBTS5vo",
+        "updatedAt": "2015-11-08T06:17:02.474Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.23,
+        "createdAt": "2015-05-30T22:30:06.102Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 26,
+        "objectId": "A9370Dut62",
+        "updatedAt": "2015-05-30T22:30:06.102Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.29,
+        "createdAt": "2014-12-12T20:30:04.020Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "AK5Flwawl4",
+        "updatedAt": "2014-12-12T20:30:04.020Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5.45,
+        "createdAt": "2015-11-27T22:30:07.670Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "Aad1JUuSqn",
+        "updatedAt": "2015-11-27T22:30:07.670Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10.43,
+        "createdAt": "2014-12-27T20:30:05.685Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "AaxBYLZrY8",
+        "updatedAt": "2014-12-27T20:30:05.685Z"
+    },
+	{
+        "cost": 50,
+        "costPerPerson": 1.85,
+        "createdAt": "2015-09-05T23:24:16.277Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 27,
+        "objectId": "AgWpfT8HQf",
+        "updatedAt": "2015-09-05T23:24:16.277Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.57,
+        "createdAt": "2015-04-11T20:30:06.899Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 28,
+        "objectId": "AhDm2p0Yb6",
+        "updatedAt": "2015-04-11T20:30:06.899Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 7.27,
+        "createdAt": "2016-03-12T22:30:11.545Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 22,
+        "objectId": "AsVTp2LAEy",
+        "updatedAt": "2016-03-12T22:30:11.545Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.33,
+        "createdAt": "2016-02-05T22:30:10.616Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "BuWx7TiXnY",
+        "updatedAt": "2016-02-05T22:30:10.616Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 7.5,
+        "createdAt": "2015-09-25T22:30:04.419Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 8,
+        "objectId": "C7diRTTGi1",
+        "updatedAt": "2015-09-25T22:30:04.419Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-07-25T22:30:05.673Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "C9BPBQx8Wv",
+        "updatedAt": "2015-07-25T22:30:05.673Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10.43,
+        "createdAt": "2015-10-24T22:30:07.687Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "CFckWyUBsz",
+        "updatedAt": "2015-10-24T22:30:07.687Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2016-02-26T22:30:09.512Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "D9cJte8aIF",
+        "updatedAt": "2016-02-26T22:30:09.512Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 6.4,
+        "createdAt": "2016-04-16T22:30:11.159Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "DDrbOC61Zl",
+        "updatedAt": "2016-04-16T22:30:11.159Z"
+    },
+	{
+        "cost": 25,
+        "costPerPerson": 0.89,
+        "createdAt": "2015-08-22T21:32:41.629Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 28,
+        "objectId": "DDx7kRUFXJ",
+        "updatedAt": "2015-08-22T21:32:41.629Z"
+    },
+	{
+        "cost": 247,
+        "costPerPerson": 8.82,
+        "createdAt": "2015-04-21T05:27:17.946Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 28,
+        "objectId": "DIWcaIUjPq",
+        "updatedAt": "2015-04-21T05:27:17.946Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 4.44,
+        "createdAt": "2016-05-27T22:30:13.957Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 9,
+        "objectId": "E5lE81dUNW",
+        "updatedAt": "2016-05-27T22:30:13.957Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5.45,
+        "createdAt": "2015-05-15T22:30:05.339Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "E7ckbFrCuq",
+        "updatedAt": "2015-05-15T22:30:05.339Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 6.96,
+        "createdAt": "2016-04-30T22:30:10.026Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "Ej0X2pM5rL",
+        "updatedAt": "2016-04-30T22:30:10.026Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 3.53,
+        "createdAt": "2015-04-10T20:30:07.690Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 17,
+        "objectId": "ElGukmdHQU",
+        "updatedAt": "2015-04-10T20:30:07.690Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 1,
+        "createdAt": "2015-10-31T20:50:18.164Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 24,
+        "objectId": "Ep11tW48C4",
+        "updatedAt": "2015-10-31T20:50:18.164Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 0.86,
+        "createdAt": "2015-05-10T22:53:12.990Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 28,
+        "objectId": "GYUbu4gTl8",
+        "updatedAt": "2015-05-10T22:53:12.990Z"
+    },
+	{
+        "cost": 28,
+        "costPerPerson": 1.33,
+        "createdAt": "2016-01-23T22:34:46.263Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 21,
+        "objectId": "GZRqN91X0z",
+        "updatedAt": "2016-01-23T22:34:46.263Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5,
+        "createdAt": "2015-12-04T22:30:03.983Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "GaAuYzUjec",
+        "updatedAt": "2015-12-04T22:30:03.983Z"
+    },
+	{
+        "cost": 30,
+        "costPerPerson": 1.25,
+        "createdAt": "2016-05-08T07:26:53.652Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 24,
+        "objectId": "Gr01IaEWt6",
+        "updatedAt": "2016-05-08T07:26:53.652Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 6.67,
+        "createdAt": "2015-07-24T22:30:05.750Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 9,
+        "objectId": "Hb9YkOdemk",
+        "updatedAt": "2015-07-24T22:30:05.750Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 0.77,
+        "createdAt": "2015-05-23T22:39:45.923Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 31,
+        "objectId": "HiZzQtAryx",
+        "updatedAt": "2015-05-23T22:39:45.923Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2016-01-08T22:30:14.179Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "Ho6Q9Gjgal",
+        "updatedAt": "2016-01-08T22:30:14.179Z"
+    },
+	{
+        "cost": 42,
+        "costPerPerson": 1.5,
+        "createdAt": "2015-07-26T09:34:43.198Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 28,
+        "objectId": "Hp9jNAbnRK",
+        "updatedAt": "2015-07-26T09:34:43.198Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.29,
+        "createdAt": "2015-01-23T20:30:06.380Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "IWKeTsZIsR",
+        "updatedAt": "2015-01-23T20:30:06.380Z"
+    },
+	{
+        "cost": 48,
+        "costPerPerson": 1.55,
+        "createdAt": "2015-02-22T02:51:32.755Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 31,
+        "objectId": "JqwSHxEM0Y",
+        "updatedAt": "2015-02-22T02:51:32.755Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 8.42,
+        "createdAt": "2015-12-19T22:30:04.103Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 19,
+        "objectId": "KPumPoFsnV",
+        "updatedAt": "2015-12-19T22:30:04.103Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.29,
+        "createdAt": "2015-11-06T22:30:05.320Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "Ke5q3xY7BL",
+        "updatedAt": "2015-11-06T22:30:05.320Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 12,
+        "createdAt": "2015-11-14T22:30:05.455Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 20,
+        "objectId": "LIUjK0cuUC",
+        "updatedAt": "2015-11-14T22:30:05.455Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 6.67,
+        "createdAt": "2015-07-17T22:30:08.118Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 9,
+        "objectId": "LOd23tj5Va",
+        "updatedAt": "2015-07-17T22:30:08.118Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 2.86,
+        "createdAt": "2015-03-13T20:30:07.852Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 21,
+        "objectId": "LgFAo09ZrD",
+        "updatedAt": "2015-03-13T20:30:07.852Z"
+    },
+	{
+        "cost": 52,
+        "costPerPerson": 2.17,
+        "createdAt": "2015-11-29T21:40:38.446Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 24,
+        "objectId": "M87V5DvvX5",
+        "updatedAt": "2015-11-29T21:40:38.446Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10.43,
+        "createdAt": "2015-04-25T20:30:07.744Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "M9g8EIjgLq",
+        "updatedAt": "2015-04-25T20:30:07.744Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5,
+        "createdAt": "2015-05-29T22:30:08.092Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "MEw31zbe55",
+        "updatedAt": "2015-05-29T22:30:08.092Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 10,
+        "createdAt": "2015-12-26T22:30:13.476Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 16,
+        "objectId": "MG95n5Lxw6",
+        "updatedAt": "2015-12-26T22:30:13.476Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 3.16,
+        "createdAt": "2015-02-27T20:30:05.750Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 19,
+        "objectId": "MLDtYx746J",
+        "updatedAt": "2015-02-27T20:30:05.750Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 0.73,
+        "createdAt": "2015-02-28T22:19:06.943Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 33,
+        "objectId": "MYMTcxoUHZ",
+        "updatedAt": "2015-02-28T22:19:06.943Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10.43,
+        "createdAt": "2015-10-10T22:30:07.920Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "MmHARJ31LJ",
+        "updatedAt": "2015-10-10T22:30:07.920Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 6.67,
+        "createdAt": "2016-04-09T22:30:09.718Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 24,
+        "objectId": "Msyi0OGUlq",
+        "updatedAt": "2016-04-09T22:30:09.718Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 6,
+        "createdAt": "2015-10-23T22:30:07.402Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 10,
+        "objectId": "NC5Lq4IKYI",
+        "updatedAt": "2015-10-23T22:30:07.402Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.08,
+        "createdAt": "2016-01-29T22:30:11.923Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 13,
+        "objectId": "NM9rsOfME9",
+        "updatedAt": "2016-01-29T22:30:11.923Z"
+    },
+	{
+        "cost": 50,
+        "costPerPerson": 1.85,
+        "createdAt": "2015-08-15T21:38:39.355Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 27,
+        "objectId": "NMgVfCbN8B",
+        "updatedAt": "2015-08-15T21:38:39.355Z"
+    },
+	{
+        "cost": 200,
+        "costPerPerson": 9.52,
+        "createdAt": "2016-06-04T22:30:12.307Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 21,
+        "objectId": "NR504D849h",
+        "updatedAt": "2016-06-04T22:30:12.307Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2015-12-11T22:30:05.615Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "NRz0ThcCCO",
+        "updatedAt": "2015-12-11T22:30:05.615Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 6.96,
+        "createdAt": "2016-02-20T22:30:07.457Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "NbZ6eWLKes",
+        "updatedAt": "2016-02-20T22:30:07.457Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 4.44,
+        "createdAt": "2016-03-18T22:30:11.219Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 9,
+        "objectId": "NnafYqVoTU",
+        "updatedAt": "2016-03-18T22:30:11.219Z"
+    },
+	{
+        "cost": 48,
+        "costPerPerson": 1.41,
+        "createdAt": "2015-03-14T22:04:04.508Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 34,
+        "objectId": "Nr43tSj6de",
+        "updatedAt": "2015-03-14T22:04:04.508Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 2.22,
+        "createdAt": "2015-05-16T12:26:49.877Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 27,
+        "objectId": "ObLp0StUHL",
+        "updatedAt": "2015-05-16T12:26:49.877Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 6,
+        "createdAt": "2015-10-02T22:30:05.505Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 10,
+        "objectId": "OotpDDJqW9",
+        "updatedAt": "2015-10-02T22:30:05.505Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 3.75,
+        "createdAt": "2015-02-20T20:30:03.659Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 16,
+        "objectId": "PH74o8p5uP",
+        "updatedAt": "2015-02-20T20:30:03.659Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 1.41,
+        "createdAt": "2015-11-20T23:03:53.511Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 17,
+        "objectId": "PhNYfzULGl",
+        "updatedAt": "2015-11-20T23:03:53.511Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2016-05-06T22:30:08.856Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "PkePbT2FjB",
+        "updatedAt": "2016-05-06T22:30:08.856Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 6.67,
+        "createdAt": "2016-03-25T22:30:12.827Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 6,
+        "objectId": "PrCXhdPvyb",
+        "updatedAt": "2016-03-25T22:30:12.827Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 4.44,
+        "createdAt": "2016-05-13T22:30:13.354Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 9,
+        "objectId": "Ptxi1n3KEz",
+        "updatedAt": "2016-05-13T22:30:13.354Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 8,
+        "createdAt": "2016-01-23T22:30:11.308Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 20,
+        "objectId": "Q5R1kHxOTM",
+        "updatedAt": "2016-01-23T22:30:11.308Z"
+    },
+	{
+        "cost": 25,
+        "costPerPerson": 0.96,
+        "createdAt": "2015-07-18T00:31:53.338Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 26,
+        "objectId": "Q5kk66K2LW",
+        "updatedAt": "2015-07-18T00:31:53.338Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10,
+        "createdAt": "2015-09-05T22:30:13.755Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 24,
+        "objectId": "QA7t2EWOOM",
+        "updatedAt": "2015-09-05T22:30:13.755Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4,
+        "createdAt": "2015-05-22T22:30:07.757Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 15,
+        "objectId": "QDTLgqtWXE",
+        "updatedAt": "2015-05-22T22:30:07.757Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.23,
+        "createdAt": "2015-07-18T22:30:05.453Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 26,
+        "objectId": "RByEvnvxG2",
+        "updatedAt": "2015-07-18T22:30:05.453Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 4.44,
+        "createdAt": "2016-05-20T22:30:09.476Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 9,
+        "objectId": "RbCCvTZB8M",
+        "updatedAt": "2016-05-20T22:30:09.476Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 7.74,
+        "createdAt": "2015-03-07T20:30:03.580Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 31,
+        "objectId": "RgMIVbmbwp",
+        "updatedAt": "2015-03-07T20:30:03.580Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2016-01-22T23:51:58.536Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "ShKrevKmDh",
+        "updatedAt": "2016-01-22T23:51:58.536Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 2.5,
+        "createdAt": "2015-03-20T20:30:07.585Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 24,
+        "objectId": "TBNy54oPh9",
+        "updatedAt": "2015-03-20T20:30:07.585Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10.43,
+        "createdAt": "2015-08-22T22:30:05.088Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "TQy8r40f1k",
+        "updatedAt": "2015-08-22T22:30:05.088Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.33,
+        "createdAt": "2016-01-15T22:30:11.320Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "TZlqSagvZP",
+        "updatedAt": "2016-01-15T22:30:11.320Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 6.67,
+        "createdAt": "2016-02-13T22:30:05.963Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 24,
+        "objectId": "TotxON4CpS",
+        "updatedAt": "2016-02-13T22:30:05.963Z"
+    },
+	{
+        "cost": 79.5,
+        "costPerPerson": 3.98,
+        "createdAt": "2016-03-20T03:33:00.608Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 20,
+        "objectId": "TxDWHbjDfn",
+        "updatedAt": "2016-03-20T03:33:00.608Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5,
+        "createdAt": "2015-07-10T22:30:05.618Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "UFUyBYIBBW",
+        "updatedAt": "2015-07-10T22:30:05.618Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 2.61,
+        "createdAt": "2015-03-27T20:30:07.231Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 23,
+        "objectId": "UJxgOkB1bO",
+        "updatedAt": "2015-03-27T20:30:07.231Z"
+    },
+	{
+        "cost": 72,
+        "costPerPerson": 2.77,
+        "createdAt": "2015-08-15T01:27:29.215Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 26,
+        "objectId": "WGayJO9glQ",
+        "updatedAt": "2015-08-15T01:27:29.215Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-02-14T20:30:03.949Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "WbJeeogebx",
+        "updatedAt": "2015-02-14T20:30:03.949Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 6,
+        "createdAt": "2015-10-09T22:30:06.735Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 10,
+        "objectId": "WrcqhCxReh",
+        "updatedAt": "2015-10-09T22:30:06.735Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2015-12-18T22:30:06.870Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "Wy2oL2d7Xf",
+        "updatedAt": "2015-12-18T22:30:06.870Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 8,
+        "createdAt": "2016-01-16T22:30:06.334Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 20,
+        "objectId": "WyzKQbJBPj",
+        "updatedAt": "2016-01-16T22:30:06.334Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 6,
+        "createdAt": "2015-08-07T22:30:05.225Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 10,
+        "objectId": "X0p026RXtK",
+        "updatedAt": "2015-08-07T22:30:05.225Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5.45,
+        "createdAt": "2015-05-08T22:30:08.404Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "XMqTGcSMSY",
+        "updatedAt": "2015-05-08T22:30:08.404Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.29,
+        "createdAt": "2015-06-26T22:30:07.065Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "XOaUQsz7IX",
+        "updatedAt": "2015-06-26T22:30:07.065Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 6,
+        "createdAt": "2015-10-16T22:30:06.244Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 10,
+        "objectId": "XZJv2eUZGD",
+        "updatedAt": "2015-10-16T22:30:06.244Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5.45,
+        "createdAt": "2015-09-18T22:30:07.705Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "YetoTtqVb6",
+        "updatedAt": "2015-09-18T22:30:07.705Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-01-31T20:30:06.438Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "YuLoP2O05u",
+        "updatedAt": "2015-01-31T20:30:06.438Z"
+    },
+	{
+        "cost": 200,
+        "costPerPerson": 8,
+        "createdAt": "2016-05-07T22:30:10.130Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "Z6mOquKEje",
+        "updatedAt": "2016-05-07T22:30:10.130Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 1.09,
+        "createdAt": "2015-10-23T22:16:38.586Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 22,
+        "objectId": "ZFbOup5D61",
+        "updatedAt": "2015-10-23T22:16:38.586Z"
+    },
+	{
+        "cost": 56,
+        "costPerPerson": 2.8,
+        "createdAt": "2015-12-12T23:21:45.363Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 20,
+        "objectId": "ZVqnHb98DZ",
+        "updatedAt": "2015-12-12T23:21:45.363Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.29,
+        "createdAt": "2015-02-06T20:30:07.694Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "ZZv4XuvXlq",
+        "updatedAt": "2015-02-06T20:30:07.694Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 8,
+        "createdAt": "2016-03-19T22:30:09.776Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 20,
+        "objectId": "ZcGJcCfHdF",
+        "updatedAt": "2016-03-19T22:30:09.776Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-06-13T22:30:05.933Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "Zzmp8Cc9gR",
+        "updatedAt": "2015-06-13T22:30:05.933Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 6.67,
+        "createdAt": "2016-02-27T22:30:09.972Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 24,
+        "objectId": "a3jre7evEg",
+        "updatedAt": "2016-02-27T22:30:09.972Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-02-07T20:30:05.983Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "a7Z2R9nsPy",
+        "updatedAt": "2015-02-07T20:30:05.983Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.33,
+        "createdAt": "2016-04-15T22:30:13.704Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "aFzNPUFZJF",
+        "updatedAt": "2016-04-15T22:30:13.704Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-06-20T22:30:07.741Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "ahFQBKhuoy",
+        "updatedAt": "2015-06-20T22:30:07.741Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.29,
+        "createdAt": "2015-06-05T22:30:08.191Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "asT4fnzDfE",
+        "updatedAt": "2015-06-05T22:30:08.191Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 1.43,
+        "createdAt": "2015-07-19T03:09:36.788Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 28,
+        "objectId": "bc1fOQPE2z",
+        "updatedAt": "2015-07-19T03:09:36.788Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2016-04-29T22:30:10.506Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "bogwgqbH91",
+        "updatedAt": "2016-04-29T22:30:10.506Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 4,
+        "createdAt": "2016-01-01T22:30:04.388Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 10,
+        "objectId": "byWo4BlfOO",
+        "updatedAt": "2016-01-01T22:30:04.388Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.23,
+        "createdAt": "2015-07-04T22:30:07.420Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 26,
+        "objectId": "bz7P0lukyN",
+        "updatedAt": "2015-07-04T22:30:07.420Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 0.89,
+        "createdAt": "2015-09-22T22:02:55.468Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 27,
+        "objectId": "cbSSqKeZPj",
+        "updatedAt": "2015-09-22T22:02:55.468Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.28,
+        "createdAt": "2015-09-19T22:30:06.379Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 29,
+        "objectId": "d6WnsGHrGO",
+        "updatedAt": "2015-09-19T22:30:06.379Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 10,
+        "createdAt": "2016-03-26T22:30:13.267Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 16,
+        "objectId": "dTQYmZ04ta",
+        "updatedAt": "2016-03-26T22:30:13.267Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.33,
+        "createdAt": "2016-03-04T22:30:10.873Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "dbNkCR4dH0",
+        "updatedAt": "2016-03-04T22:30:10.873Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 7.27,
+        "createdAt": "2015-03-14T20:30:06.212Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 33,
+        "objectId": "dplZ9nnpDo",
+        "updatedAt": "2015-03-14T20:30:06.212Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.57,
+        "createdAt": "2014-12-20T20:30:05.226Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 28,
+        "objectId": "e90aXJ61V5",
+        "updatedAt": "2014-12-20T20:30:05.226Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10,
+        "createdAt": "2015-09-26T22:30:04.457Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 24,
+        "objectId": "ekDVq4WABo",
+        "updatedAt": "2015-09-26T22:30:04.457Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.29,
+        "createdAt": "2015-08-28T22:30:05.318Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "ekU3NvCm3r",
+        "updatedAt": "2015-08-28T22:30:05.318Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 1,
+        "createdAt": "2015-09-04T23:58:55.589Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 24,
+        "objectId": "erzUn7zb99",
+        "updatedAt": "2015-09-04T23:58:55.589Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8,
+        "createdAt": "2015-04-18T20:30:04.482Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 30,
+        "objectId": "g1k31XvRWd",
+        "updatedAt": "2015-04-18T20:30:04.482Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.23,
+        "createdAt": "2015-01-10T20:30:02.620Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 26,
+        "objectId": "g5KL16sa9j",
+        "updatedAt": "2015-01-10T20:30:02.620Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 0.77,
+        "createdAt": "2015-02-27T20:05:32.880Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 31,
+        "objectId": "h0JVJZrjFH",
+        "updatedAt": "2015-02-27T20:05:32.880Z"
+    },
+	{
+        "cost": 50,
+        "costPerPerson": 1.92,
+        "createdAt": "2015-07-06T22:09:08.795Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 26,
+        "objectId": "h3VtA466B6",
+        "updatedAt": "2015-07-06T22:09:08.795Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5,
+        "createdAt": "2015-06-19T22:30:06.320Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "hFShiFwXTD",
+        "updatedAt": "2015-06-19T22:30:06.320Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 7.27,
+        "createdAt": "2016-02-06T22:30:06.384Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 22,
+        "objectId": "hPgm2WPgHO",
+        "updatedAt": "2016-02-06T22:30:06.384Z"
+    },
+	{
+        "cost": 48,
+        "costPerPerson": 1.5,
+        "createdAt": "2015-09-13T00:22:53.712Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 32,
+        "objectId": "hQmI7NNCUG",
+        "updatedAt": "2015-09-13T00:22:53.712Z"
+    },
+	{
+        "cost": 48,
+        "costPerPerson": 1.78,
+        "createdAt": "2015-09-27T07:02:32.511Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 27,
+        "objectId": "haxEnbaxGt",
+        "updatedAt": "2015-09-27T07:02:32.511Z"
+    },
+	{
+        "cost": 53,
+        "costPerPerson": 2.12,
+        "createdAt": "2016-02-14T03:48:11.036Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 25,
+        "objectId": "hhRj07FTrm",
+        "updatedAt": "2016-02-14T03:48:11.036Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.57,
+        "createdAt": "2014-12-13T22:48:56.841Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 28,
+        "objectId": "huj6kJ0zRl",
+        "updatedAt": "2014-12-13T22:48:56.841Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 3.33,
+        "createdAt": "2015-02-13T20:30:03.991Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 18,
+        "objectId": "iDS9VjzY0s",
+        "updatedAt": "2015-02-13T20:30:03.991Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-05-23T22:30:04.846Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "iZAKM7vemk",
+        "updatedAt": "2015-05-23T22:30:04.846Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.57,
+        "createdAt": "2015-03-21T20:30:04.510Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 28,
+        "objectId": "jvp2fUUe52",
+        "updatedAt": "2015-03-21T20:30:04.510Z"
+    },
+	{
+        "cost": 25,
+        "costPerPerson": 1.19,
+        "createdAt": "2016-01-09T21:58:32.751Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 21,
+        "objectId": "k6V2DAA1Ys",
+        "updatedAt": "2016-01-09T21:58:32.751Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-07-11T22:30:07.601Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "kEPpkmkzC3",
+        "updatedAt": "2015-07-11T22:30:07.601Z"
+    },
+	{
+        "cost": 25,
+        "costPerPerson": 1.32,
+        "createdAt": "2016-01-08T21:45:04.492Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 19,
+        "objectId": "kOuxgD7KuQ",
+        "updatedAt": "2016-01-08T21:45:04.492Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.29,
+        "createdAt": "2015-08-21T22:30:04.288Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 14,
+        "objectId": "kd69Xw6fws",
+        "updatedAt": "2015-08-21T22:30:04.288Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.62,
+        "createdAt": "2015-11-13T22:30:05.235Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 13,
+        "objectId": "lX0AmCsJyu",
+        "updatedAt": "2015-11-13T22:30:05.235Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4.62,
+        "createdAt": "2015-09-11T22:30:07.632Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 13,
+        "objectId": "lcVcDkBWia",
+        "updatedAt": "2015-09-11T22:30:07.632Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.89,
+        "createdAt": "2015-08-15T22:30:06.111Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 27,
+        "objectId": "lfUN13GorP",
+        "updatedAt": "2015-08-15T22:30:06.111Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 3.75,
+        "createdAt": "2015-04-24T20:30:05.077Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 16,
+        "objectId": "m270AqXDUA",
+        "updatedAt": "2015-04-24T20:30:05.077Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 2.22,
+        "createdAt": "2015-01-09T21:05:03.899Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 27,
+        "objectId": "mAHjpGtWlV",
+        "updatedAt": "2015-01-09T21:05:03.899Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.28,
+        "createdAt": "2015-05-02T22:30:08.917Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 29,
+        "objectId": "mErk5E9F4x",
+        "updatedAt": "2015-05-02T22:30:08.917Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 7.62,
+        "createdAt": "2016-01-30T22:30:10.726Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 21,
+        "objectId": "mPEgkJJ91N",
+        "updatedAt": "2016-01-30T22:30:10.726Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10,
+        "createdAt": "2015-10-31T22:30:04.698Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 24,
+        "objectId": "mmJ1A4bx3g",
+        "updatedAt": "2015-10-31T22:30:04.698Z"
+    },
+	{
+        "cost": 200,
+        "costPerPerson": 8.33,
+        "createdAt": "2016-05-28T22:30:09.091Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 24,
+        "objectId": "n3taGUaMVA",
+        "updatedAt": "2016-05-28T22:30:09.091Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 4.44,
+        "createdAt": "2016-06-03T22:30:21.140Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 9,
+        "objectId": "n4Ylg5ESdl",
+        "updatedAt": "2016-06-03T22:30:21.140Z"
+    },
+	{
+        "cost": 28,
+        "costPerPerson": 1.65,
+        "createdAt": "2016-01-01T22:48:06.833Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 17,
+        "objectId": "oPp0yZTif6",
+        "updatedAt": "2016-01-01T22:48:06.833Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 7.06,
+        "createdAt": "2014-12-06T20:30:06.110Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 34,
+        "objectId": "oRqmOkttYq",
+        "updatedAt": "2014-12-06T20:30:06.110Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4,
+        "createdAt": "2015-05-01T22:30:07.644Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 15,
+        "objectId": "pMDBcbiAsU",
+        "updatedAt": "2015-05-01T22:30:07.644Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 2.22,
+        "createdAt": "2015-05-31T06:43:20.428Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 27,
+        "objectId": "pV4cNUtMtW",
+        "updatedAt": "2015-05-31T06:43:20.428Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 1.82,
+        "createdAt": "2014-12-05T20:58:22.198Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 33,
+        "objectId": "phGerCid5E",
+        "updatedAt": "2014-12-05T20:58:22.198Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5,
+        "createdAt": "2015-01-09T20:30:06.884Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 12,
+        "objectId": "pz3nP9Vq80",
+        "updatedAt": "2015-01-09T20:30:06.884Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 3.64,
+        "createdAt": "2016-02-19T22:30:11.255Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "qS0POzkXkG",
+        "updatedAt": "2016-02-19T22:30:11.255Z"
+    },
+	{
+        "cost": 79.5,
+        "costPerPerson": 3.46,
+        "createdAt": "2016-02-25T23:02:01.956Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 23,
+        "objectId": "qbGDviXC8o",
+        "updatedAt": "2016-02-25T23:02:01.956Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.89,
+        "createdAt": "2015-08-01T22:30:04.915Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 27,
+        "objectId": "qkfilCvZRB",
+        "updatedAt": "2015-08-01T22:30:04.915Z"
+    },
+	{
+        "cost": 200,
+        "costPerPerson": 8.7,
+        "createdAt": "2016-05-14T22:30:10.538Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "quEYA5H871",
+        "updatedAt": "2016-05-14T22:30:10.538Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 2.86,
+        "createdAt": "2015-03-06T20:30:03.801Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 21,
+        "objectId": "qy6mfxn3x3",
+        "updatedAt": "2015-03-06T20:30:03.801Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 3.33,
+        "createdAt": "2014-12-05T20:30:08.144Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 18,
+        "objectId": "rYFJ1Z0GoT",
+        "updatedAt": "2014-12-05T20:30:08.144Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.89,
+        "createdAt": "2015-06-27T22:30:04.527Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 27,
+        "objectId": "sAOjaGoeYw",
+        "updatedAt": "2015-06-27T22:30:04.527Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 8,
+        "createdAt": "2015-12-05T22:30:06.616Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 20,
+        "objectId": "sJTHteHpzt",
+        "updatedAt": "2015-12-05T22:30:06.616Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 7.5,
+        "createdAt": "2015-07-31T22:30:06.449Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 8,
+        "objectId": "t7WmSYB1CM",
+        "updatedAt": "2015-07-31T22:30:06.449Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.89,
+        "createdAt": "2015-04-04T20:30:08.666Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 27,
+        "objectId": "tP6wdd8zuF",
+        "updatedAt": "2015-04-04T20:30:08.666Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.57,
+        "createdAt": "2015-06-06T22:30:05.433Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 28,
+        "objectId": "tuAdbIEOsH",
+        "updatedAt": "2015-06-06T22:30:05.433Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 1.2,
+        "createdAt": "2015-10-03T20:39:04.724Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 20,
+        "objectId": "tzkXMwNYto",
+        "updatedAt": "2015-10-03T20:39:04.724Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 14.12,
+        "createdAt": "2015-11-21T22:30:06.119Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 17,
+        "objectId": "uJEy65bUXf",
+        "updatedAt": "2015-11-21T22:30:06.119Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 0.83,
+        "createdAt": "2015-06-15T02:40:44.716Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 29,
+        "objectId": "uLOoLd1Wc3",
+        "updatedAt": "2015-06-15T02:40:44.716Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 6,
+        "createdAt": "2014-12-26T20:30:05.467Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 10,
+        "objectId": "uchITKJdSw",
+        "updatedAt": "2014-12-26T20:30:05.467Z"
+    },
+	{
+        "cost": 160,
+        "costPerPerson": 7.27,
+        "createdAt": "2016-04-23T22:30:08.357Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 22,
+        "objectId": "uuJl8kC5FE",
+        "updatedAt": "2016-04-23T22:30:08.357Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-08-29T22:30:05.236Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "vHzFqrD7Y4",
+        "updatedAt": "2015-08-29T22:30:05.236Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10.43,
+        "createdAt": "2015-02-21T20:30:04.734Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "vKbR1MrrAq",
+        "updatedAt": "2015-02-21T20:30:04.734Z"
+    },
+	{
+        "cost": 22,
+        "costPerPerson": 1,
+        "createdAt": "2015-11-14T22:52:43.721Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 22,
+        "objectId": "vg4Dg3kYcF",
+        "updatedAt": "2015-11-14T22:52:43.721Z"
+    },
+	{
+        "cost": 40,
+        "costPerPerson": 4,
+        "createdAt": "2016-03-11T22:30:12.340Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 10,
+        "objectId": "vk5CxtKUbO",
+        "updatedAt": "2016-03-11T22:30:12.340Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 8.57,
+        "createdAt": "2015-03-28T20:30:05.514Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 28,
+        "objectId": "w9SrxBHPBi",
+        "updatedAt": "2015-03-28T20:30:05.514Z"
+    },
+	{
+        "cost": 23,
+        "costPerPerson": 1.05,
+        "createdAt": "2015-11-27T21:13:00.085Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 22,
+        "objectId": "wDv5q5BmwW",
+        "updatedAt": "2015-11-27T21:13:00.085Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 11.43,
+        "createdAt": "2015-10-17T22:30:06.006Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 21,
+        "objectId": "x9HHTjtTfM",
+        "updatedAt": "2015-10-17T22:30:06.006Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.23,
+        "createdAt": "2015-11-07T22:30:06.060Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 26,
+        "objectId": "xDTaEPhF7S",
+        "updatedAt": "2015-11-07T22:30:06.060Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 5.45,
+        "createdAt": "2015-01-16T20:30:07.515Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 11,
+        "objectId": "xcwguf46qf",
+        "updatedAt": "2015-01-16T20:30:07.515Z"
+    },
+	{
+        "cost": 30,
+        "costPerPerson": 1.3,
+        "createdAt": "2016-02-06T23:08:26.189Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 23,
+        "objectId": "xpLiEaWbVK",
+        "updatedAt": "2016-02-06T23:08:26.189Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 12.63,
+        "createdAt": "2015-10-03T22:30:09.001Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 19,
+        "objectId": "xrS7inr5uq",
+        "updatedAt": "2015-10-03T22:30:09.001Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4,
+        "createdAt": "2015-09-04T22:30:06.960Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 15,
+        "objectId": "xz0SB20XHN",
+        "updatedAt": "2015-09-04T22:30:06.960Z"
+    },
+	{
+        "cost": 53,
+        "costPerPerson": 2.3,
+        "createdAt": "2016-02-28T10:10:47.385Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 23,
+        "objectId": "y2yxSImgGt",
+        "updatedAt": "2016-02-28T10:10:47.385Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10.43,
+        "createdAt": "2015-05-09T22:30:05.566Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "y8V3sL093c",
+        "updatedAt": "2015-05-09T22:30:05.566Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-09-12T22:30:05.968Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "yA0wgxQsZZ",
+        "updatedAt": "2015-09-12T22:30:05.968Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 3,
+        "createdAt": "2015-04-03T20:30:06.869Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 20,
+        "objectId": "yFd1yE6Wre",
+        "updatedAt": "2015-04-03T20:30:06.869Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 9.6,
+        "createdAt": "2015-01-17T20:30:04.568Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 25,
+        "objectId": "ysP9cGYOwV",
+        "updatedAt": "2015-01-17T20:30:04.568Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 6,
+        "createdAt": "2015-11-20T22:30:06.744Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 10,
+        "objectId": "zErJiBkrtT",
+        "updatedAt": "2015-11-20T22:30:06.744Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 11.43,
+        "createdAt": "2015-11-28T22:30:04.654Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 21,
+        "objectId": "zJaKsd4WAK",
+        "updatedAt": "2015-11-28T22:30:04.654Z"
+    },
+	{
+        "cost": 240,
+        "costPerPerson": 10.43,
+        "createdAt": "2015-01-24T20:30:04.037Z",
+        "description": "Deduction_Sunday",
+        "numberOfPlayers": 23,
+        "objectId": "zM94V81BhI",
+        "updatedAt": "2015-01-24T20:30:04.037Z"
+    },
+	{
+        "cost": 60,
+        "costPerPerson": 4,
+        "createdAt": "2015-10-30T22:30:07.982Z",
+        "description": "Deduction_Saturday",
+        "numberOfPlayers": 15,
+        "objectId": "zQRSNbOVVu",
+        "updatedAt": "2015-10-30T22:30:07.982Z"
+    },
+	{
+        "cost": 24,
+        "costPerPerson": 1,
+        "createdAt": "2015-10-31T22:22:03.502Z",
+        "description": "Deduction_Shuttles",
+        "numberOfPlayers": 24,
+        "objectId": "zzUivbpPsg",
+        "updatedAt": "2015-10-31T22:22:03.502Z"
+    }
+] }

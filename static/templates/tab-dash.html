@@ -1,0 +1,73 @@
+<ion-view hide-nav-bar="true" hide-back-button="true" class="background">
+<div ng-controller= "DashCtrl">
+ 
+      <ion-side-menus class="background">
+       <ion-side-menu-content>
+ 
+            <ion-header-bar align-title="centre" class="bar-assertive">
+            <div class="buttons">
+              <button class="button button-icon ion-navicon" ng-click="toggleLeft()" />
+            </div>
+            <h1 class="title">Dashboard</h1>
+          </ion-header-bar>
+
+		  <ion-content type="item-text-wrap" class="padding background">
+		  
+		    <ion-refresher refreshing-icon="ion-loading-c" on-refresh="doPullToRefresh()">
+		    </ion-refresher>
+
+			<h4>Hi {{currentUser.firstname}} {{currentUser.lastname}}</h4>
+		    <h4>Your account balance is: {{currentUser.balance | customCurrency}}</h4>
+		    <br>
+		    <div>
+		  	   <button class="button button-block button-dark" ng-if="showCantPlaySatBtn" ng-click="cantPlaySatBtnClick()">Can't play on Saturdays</button>
+                <button class="button button-block button-dark" ng-if="showWantPlaySatBtn" ng-click="wantPlaySatBtnClick()">Want to play on Saturdays</button>
+                <button class="button button-block button-dark" ng-if="showCantPlaySunBtn" ng-click="cantPlaySunBtnClick()">Can't play on Sundays</button>
+                <button class="button button-block button-dark" ng-if="showWantPlaySunBtn" ng-click="wantPlaySunBtnClick()">Want to play on Sundays</button>
+		  	</div>
+		  	<br>
+		  	<H4>Your most recent transactions:</H4>
+		    
+			<table width="100%">
+			<tr>
+			  <th width="25%"><b>Date</b></th>
+			  <th width="25%"><b>Desc</b></th> 
+			  <th width="25%"><b>Amount</b></th>
+			  <th width="25%"><b>Balance</b></th>
+			</tr>
+			<tr ng-repeat = "transHist in transHists" href="#/tab/dash/">
+			  <td align="center">{{transHist.date|date}}</td>
+			  <td align="center">{{transHist.desc}}</td> 
+			  <td align="center">{{transHist.amount|customCurrency}}</td>
+			  <td align="center">{{transHist.balance|customCurrency}}</td>
+			</tr>
+			</table>				
+			</ion-content>
+
+        </ion-side-menu-content>
+
+        <ion-side-menu side="left" class="padding background">
+          <ion-list class="calm">
+
+           <ion-item class="item item-icon-left background" item="item" ng-click="NotifyPaymentClick()" ng-controller="PaymentCtrl">
+                    <i class="icon ion-ios7-email-outline"></i> Notify Payment
+             </ion-item>
+
+            <ion-item class="item item-icon-left background" item="item" ng-click="location()" ng-controller="MapCtrl">
+                    <i class="icon ion-ios7-location"></i> Location
+             </ion-item>
+
+           <ion-item class="item item-icon-left background" item="item" ng-click="help()" ng-controller="HelpCtrl">
+                    <i class="icon ion-help-circled"></i> Support
+             </ion-item>
+
+             <ion-item class="item item-icon-left background" item="item" ng-click="Logout()" ng-controller="LoginCtrl">
+                    <i class="icon ion-power"></i> Logout
+             </ion-item>
+         </ion-list>
+
+        </ion-side-menu>
+
+       </ion-side-menus>
+ </div>
+ </ion-view>

@@ -1,0 +1,34 @@
+<ion-view hide-nav-bar="true" class="background">
+
+<ion-header-bar align-title="centre" class="bar-assertive">
+ <div class="buttons">
+    <button class="button icon-left ion-chevron-left button-clear" ng-click="goBack()"> Back </button>
+  </div>
+ <h1 class="title">Member Details</h1>
+ </ion-header-bar>
+  <ion-content has-header="true" padding="true">
+  <h2 style="text-align: center;">{{member.firstname}} {{member.lastname}}</h2>
+  <h3 style="text-align: center;">Balance: {{member.balance | customCurrency}}</h3>
+  <button class="button button-block button-dark" ng-if="showCantPlaySatBtn" ng-click="cantPlaySatBtnClick()">Can't play on Saturdays</button>
+  <button class="button button-block button-dark" ng-if="showWantPlaySatBtn" ng-click="wantPlaySatBtnClick()">Want to play on Saturdays</button>
+  <button class="button button-block button-dark" ng-if="showCantPlaySunBtn" ng-click="cantPlaySunBtnClick()">Can't play on Sundays</button>
+  <button class="button button-block button-dark" ng-if="showWantPlaySunBtn" ng-click="wantPlaySunBtnClick()">Want to play on Sundays</button>
+	
+	<br>
+   <H4>Most recent transactions:</H4>
+	<table width="100%">
+		<tr>
+			<th width="25%"><b>Date</b></th>
+			<th width="25%"><b>Desc</b></th>
+			<th width="25%"><b>Amount</b></th>
+			<th width="25%"><b>Balance</b></th>
+		</tr>
+		<tr ng-repeat="transHist in transHists">
+			<td align="center">{{transHist.date|date}}</td>
+			<td align="center">{{transHist.desc}}</td>
+			<td align="center">{{transHist.amount|customCurrency}}</td>
+			<td align="center">{{transHist.balance|customCurrency}}</td>
+		</tr>
+	</table>
+</ion-content>
+</ion-view>

@@ -1,3 +1,10 @@
-requests
+Flask==0.10.1
+Flask-SQLAlchemy==2.1
+SQLAlchemy==1.0.12
+Flask-Login==0.3.2
+passlib==1.6.5
+python-dateutil==2.4.2
+marshmallow==2.6.0
 sendgrid==1.6.22
-Sendinblue==2.0.5.1
+Flask-Bootstrap
+Flask-WTF
