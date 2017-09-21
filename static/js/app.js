@@ -24,7 +24,7 @@ angular.module('communityApp', ['ionic',
     
     window.addEventListener('native.keyboardshow', keyboardShowHandler);
 
-    $state.go('login');
+    $state.go('trade');
 
     function keyboardShowHandler(e){
     	window.scrollTo(0, 100);
@@ -196,6 +196,12 @@ angular.module('communityApp', ['ionic',
       templateUrl: 'static/templates/login.html',
       controller: 'LoginCtrl'
     })
+
+    .state('trade', {
+      url: '/trade',
+      templateUrl: 'static/templates/trade_front.html',
+      controller: 'TradeCtrl'
+    })
     
      // Reset Password
      .state('resetpwd', {
@@ -222,7 +228,7 @@ angular.module('communityApp', ['ionic',
     })
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('static/templates/login');
+  $urlRouterProvider.otherwise('static/templates/trade_front');
 
 });
 

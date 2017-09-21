@@ -31,6 +31,10 @@ services.factory('BadmintonSvc', ['$rootScope', '$http', '$window', function($ro
             return $http.get('/api/getTransactions/' + email);
         },
 
+        howMuchProfit: function() {
+            return $http.get('/api/howMuchProfit');
+        },
+
         cantPlayOnSaturdays: function(email, weeks, future) {
             return $http({
                     url: '/api/cantPlayOnSaturdays',

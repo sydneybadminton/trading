@@ -1,5 +1,33 @@
 var controllers = angular.module('communityApp.controllers', ['ionic', 'communityApp.services']);
 
+//---------------------------------------------------------------
+//TradeCtrl - Start
+//---------------------------------------------------------------
+controllers.controller('TradeCtrl', function($scope, $ionicPopup, $state, $timeout, BadmintonSvc, UtilSvc, $ionicLoading, $stateParams){
+	$scope.howMuchProfit = function () {
+	    UtilSvc.showPleaseWait();
+        var howMuchProfit = BadmintonSvc.howMuchProfit();
+            howMuchProfit.then(function(payload) {
+                // Urrey! success, refresh the data
+                UtilSvc.hidePleaseWait();
+				UtilSvc.showAlert('Profit', payload.data);
+            }, function(error) {
+                // Alert dialog, try again
+                console.log(error);
+                UtilSvc.hidePleaseWait();
+                var alertPopup = $ionicPopup.alert({
+                    title: 'Get Profit Info failed!',
+                    template: message
+                });
+                alertPopup.then(function(res) {
+                    console.log('User clicked on the ok button');
+                });
+            });
+	};
+});
+//---------------------------------------------------------------
+//TradeCtrl - End
+//---------------------------------------------------------------
 
 
 //---------------------------------------------------------------

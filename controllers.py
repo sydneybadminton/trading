@@ -12,6 +12,7 @@ from models import db, User, UserSchema, UserShortSchema, \
 from utils import SendGrid
 from forms import ResetPasswordForm
 from expense_util import run_expense
+from scripts.run_comparison import RunComparison
 
 
 api = Blueprint('api', __name__)
@@ -44,6 +45,10 @@ def login():
         return json_result.data
     else:
         abort(401)
+
+@api.route('/api/howMuchProfit')
+def howMuchProfit():
+    return RunComparison.comparison()
 
 
 @api.route('/api/getMembers')
