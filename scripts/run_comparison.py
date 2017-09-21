@@ -28,4 +28,4 @@ class RunComparison:
                    "\"CSRate\":" + str(cs_rate) + "," + \
                    "\"10KProfit\":" + str(profit) + "}"
 
-        return "10K Profit = $" + str(profit)
+        return "$10K trade profit = $" + str(profit)
