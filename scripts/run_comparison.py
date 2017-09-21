@@ -18,7 +18,7 @@ profit = format((cs_sellprice - ten_k), '.2f')
 print "BTCM Last Price = $" + format((btcm_lastprice * 1.008), '0.2f')
 print "BTC bought = " + repr(btcm_btc)
 print "CS Rate = $"  + repr(cs_rate)
-print "Profit = $" + profit
+print "Profit for 10K trade = $" + profit
 
 if float(profit) > 200.0:
     body = 'BTCM Last Price for 1 BTC = $' + format((btcm_lastprice * 1.008), '0.2f') + '\r\n' + \
