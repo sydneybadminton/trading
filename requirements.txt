@@ -1,2 +1,3 @@
 requests
 sendgrid==1.6.22
+Sendinblue==2.0.5.1

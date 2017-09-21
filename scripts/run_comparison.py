@@ -1,5 +1,5 @@
 import requests
-from utils import SendGrid
+from utils import SendMail
 
 ten_k = 10000
 btcm_response = requests.get('https://api.btcmarkets.net/market/BTC/AUD/tick')
@@ -20,7 +20,7 @@ print "BTC bought = " + repr(btcm_btc)
 print "CS Rate = $"  + repr(cs_rate)
 print "Profit for $10K trade = $" + profit
 
-if float(profit) > 200.0:
+if float(profit) > 0.0:
     body = 'BTCM Last Price for 1 BTC = $' + format((btcm_lastprice * 1.008), '0.2f') + '\r\n' + \
            'BTC bought = ' + str(btcm_btc) + '\r\n' + \
            'CS Rate for 1 BTC = $' + str(cs_rate) + '\r\n' + \
@@ -28,5 +28,6 @@ if float(profit) > 200.0:
     email_ids = []
     email_ids.append("malli.arjun@gmail.com")
     email_ids.append("michaelwookey@gmail.com")
-    SendGrid.send_email(email_ids, "no-reply@sendgrid.me",
-                            "Profit for $10K trade is $" + repr(profit), body)
+    # SendMail.sendgrid_email(email_ids, "no-reply@sendgrid.me",
+    #                         "Profit for $10K trade is $" + repr(profit), body)
+    SendMail.sendinblue_email("malli.arjun@gmail.com", "no-reply@sendinblue.com", "Profit for $10K trade is $" + str(profit), body)
