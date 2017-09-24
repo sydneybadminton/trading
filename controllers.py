@@ -48,7 +48,7 @@ def login():
 
 @api.route('/api/howMuchProfit')
 def howMuchProfit():
-    return RunComparison.comparison()
+    return RunComparison.get_profit_percentage()
 
 
 @api.route('/api/getMembers')
